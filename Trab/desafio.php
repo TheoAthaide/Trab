@@ -20,7 +20,7 @@ if ($escolha === 1)
 
 
     print "Você precisara de $litros_tinta litros para cobrir a area \n";
-    print "você ira precisar de $latas_totais latas, custando R$$preco_total_total,00 \n\n";
+    print "você ira precisar de $latas_totais latas, custando R$$preco_total,00 \n\n";
 }
 
 
@@ -35,7 +35,7 @@ if ($escolha === 2)
 
 
     print "Você precisara de $litros_tinta litros para cobrir a area \n";
-    print "você ira precisar de $latas_totais latas, custando R$$preco_total_total,00 \n\n";
+    print "você ira precisar de $latas_totais latas, custando R$$preco_total,00 \n\n";
 }
 
 
